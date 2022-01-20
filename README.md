@@ -86,4 +86,4 @@ For details regarding how these labels are defined and predicted please refer to
 ```
 ## Acknowledgment
 
-This data was collected under award 1838770 'SCH: INT: The Virtual Assistant Health Coach: Learning to Autonomously Improve Health Behaviors', by the US National Science Foundation.
+This data was collected under award [# 1838770 SCH: INT: The Virtual Assistant Health Coach: Learning to Autonomously Improve Health Behaviors](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838770), by the US National Science Foundation.
