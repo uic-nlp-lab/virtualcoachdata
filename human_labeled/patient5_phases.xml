@@ -1,0 +1,230 @@
+05/06/19 10:37 Coach: <goal_setting gate:gateId="552" phase="goal_identification">Test Hello [Name]</goal_setting>
+
+05/06/19 11:00 Coach: Thanks for being so patient with us setting up your fitbit, [Name]!
+
+05/06/19 12:00 Coach: Welcome to the walking study, [Name]! This is [Name].  I am going to be your health coach.  We are going to start out with a goal of 2000 steps per day.  
+
+05/06/19 12:10 Patient: Ok thanks
+
+05/06/19 12:11 Patient: <goal_action gate:gateId="553" phase="follow up">I already did over 2000 steps</goal_action>
+
+05/06/19 12:28 Coach: Great job, [Name]!  You met your goal for today!  As you mentioned, you weren&apos;t sure how many steps you walked....we will be able to find out.  And remember 2000 steps equals one mile.  Keep up the good work.
+
+05/06/19 12:30 Patient: Thanks
+
+05/07/19 13:52 Patient: <goal_action gate:gateId="554" phase="goal_negotiation">I think maybe i should set my goals to 6000 steps per day</goal_action>
+
+05/07/19 14:39 Coach: Let&apos;s stay at 2000 for every day this week and then you can just walk more if you want.  I see you almost hit 6000 today!  Also that you charged it.  You are doing wonderfully...
+
+05/07/19 15:17 Patient: Ok thanks
+
+05/08/19 15:16 Patient: <goal_action gate:gateId="555" phase="follow up">Sorry i did not here from you today</goal_action>
+
+05/09/19 10:56 Coach: Hi [Name]!  I see you hit over 6000 yesterday as well! It&apos;s looking like rain today so just remember that if you don&apos;t make 6000 -- it&apos;s ok because your goal this week is 2000.  I know that&apos;s low but you can raise it next week.  This is just the first week.  Have a great day
+
+05/09/19 11:38 Patient: Thank you
+
+05/10/19 11:00 Coach: You are enough....just as you are.  You are the best you that will ever be and you are beautiful.
+
+05/10/19 11:05 Patient: Not sure if this text is for me but thanks
+
+05/10/19 14:26 Coach: Yes - it was for you.  Just trying to give you a little extra motivation.  Do you like it or want to stick to the goals?
+
+05/10/19 14:50 Patient: Thank you [Name]
+
+05/11/19 14:00 Coach: Every day is a new beginning. Take a deep breath, smile, and start again.
+
+05/11/19 14:08 Patient: Ok thanks
+
+05/13/19 10:30 Coach: <goal_setting gate:gateId="556" phase="goal_identification">Happy Monday [Name]!  So you really did amazing in your first week of the study. What goal would you like to set for this week?  Remember that you want it to be one you are totally confident you can reach.</goal_setting> 
+
+05/13/19 13:19 Patient: I decided to set the goal for 6000...
+
+05/15/19 17:22 Coach: <goal_setting gate:gateId="557" phase="anticipate_barrier">You want your goal to be 6000 steps each day.  I see you made it on Monday.  Just missed it yesterday.  How confident are you that you can do 6000 each day this week?  1 is not at all confident.  10 is extremely confident.</goal_setting>
+
+05/15/19 18:41 Patient: 5
+
+05/15/19 19:24 Coach: <goal_setting gate:gateId="558" phase="goal_negotiation">It&apos;s nicer to pick a goal that you know you can reach.  Remember, we have 7 more weeks to go.  You can increase your steps slowly.  What is a little more than last week&apos;s 2000 steps that would feel like something you could do for sure?</goal_setting>
+
+05/15/19 19:33 Patient: I honestly believe I can do alease 4000 or more so maybe i will just set my goal at 4000.
+
+05/15/19 19:35 Coach: <goal_setting gate:gateId="559" phase="anticipate_barrier">Sounds like you are pretty confident about that.  4000 steps a day.  That&apos;s double last week -- it&apos;s up to you.  On that scale of 1 to 10 - with 10 being completely sure you can do it - how sure are you that you can walk 4000 steps every day this week?</goal_setting>
+
+05/15/19 19:35 Patient: Very sure about 4000
+
+05/15/19 19:37 Coach: So it sounds like a 10!  That&apos;s what we want. Goals that you feel 100% confident you can do.  So between today and next Monday, your goal is to walk at least 4000 steps each day.  If you walk more, that&apos;s fine.  Thanks for working with me.
+
+05/15/19 20:21 Patient: Thank you.
+
+05/16/19 13:21 Coach: <goal_action gate:gateId="560" phase="follow up">Good afternoon [Name].  It looks like you may not have your fitbit on?  Just wanted to check.  I hope you are ok and just forgot to put it on.</goal_action> 
+
+05/16/19 14:25 Patient: I think i put it on around 9:00  today don&apos;t quite remember 
+
+05/16/19 14:28 Coach: Hmm. I can&apos;t see it on my end.  Did you happen to turn off bluetooth?
+
+05/16/19 14:31 Patient: No I dont think so
+
+05/16/19 14:51 Patient: Can you see it now on your end.
+
+05/16/19 14:52 Coach: No -- thanks for trying.  I will try to figure it out.  You keep up the good work.
+
+05/16/19 14:53 Patient: Ok
+
+05/16/19 14:59 Coach: When you get a chance, can you just swipe your finger from the top of your phone down?  Sometimes that will fix this problem.  Thanks!
+
+05/16/19 15:00 Patient: Ok i swipe down
+
+05/16/19 15:01 Patient: I hope that solve the problem
+
+05/16/19 15:02 Coach: Thanks for working with me on this, [Name]. It still isn&apos;t picking it up.  I am going to do some searching.  You just keep walking...
+
+05/16/19 15:04 Patient: I did not charge it up last nite but I did not need to you think that might be a problem
+
+05/16/19 15:06 Coach: I am not sure but that is very good thinking. 
+
+05/16/19 15:07 Patient: I have over 2000 steps already
+
+05/16/19 15:08 Coach: Great job! Thanks for letting me know.  Stay dry as they say we are in for some rain over the next few days.
+
+05/17/19 15:19 Coach: Hi [Name]!  I hope you are having a good day.  When you get a chance could you try this  --- push the button on the side of the fitbit down and hold it down for about 15 seconds.   You fitbit screen should turn off and then come right back on. Thanks!!  I am still trying to figure out why I can&apos;t see your steps.
+
+05/17/19 15:40 Patient: I am over 3000 steps I hope you are able to see it...I also pushed the button on the side I hope I did not mess up
+
+05/17/19 15:48 Coach: Great job on the steps -- I appreciate you trying to fix the issue.  I just can&apos;t figure out why it stopped showing me the steps.  I still can&apos;t see but good to know you are walking...
+
+05/17/19 19:25 Patient: Well I had a pretty good day and I am getting ready to charge my phone up I completed my goal I have over 4700 steps.
+
+05/17/19 19:56 Coach: I hope that you are proud of yourself.  You are setting goals and moving forward. Making it happen!!  
+
+05/18/19 21:21 Patient: Getting ready for bed i have 4794 steps i hope you can see them on your end..
+
+05/19/19 08:57 Coach: Good morning [Name]!  Thanks for updating me on your steps yesterday.  Sadly, I still cannot see your steps.  But excellent job!  You are walking about 2.5 miles each day!  That&apos;s wonderful.  You are on track to meet your goal of 4000 steps every day this week.  One more day.  
+
+05/19/19 09:28 Patient: Gm and thank you
+
+05/20/19 10:00 Coach: <goal_setting gate:gateId="561" phase="goal_identification">Happy Monday, [Name]!  You went from 2000 steps in week 1 up to 4000 steps in week 2.  That was a huge jump. I want you to pick a goal for this week that you feel sure you can do.  Think about how easy or hard it was to get in your 4000 steps as you set your goal for this week. I will text you in an hour to see what goal you are considering.</goal_setting> 
+
+05/20/19 10:13 Patient: Ok
+
+05/20/19 11:00 Coach: <goal_setting gate:gateId="562" phase="anticipate_barrier">Hi again, [Name].  What are you thinking for this week&apos;s goal?  On a scale from 1 to 10 with 10 being totally sure you can do it - how sure are you?</goal_setting>  
+
+05/20/19 12:29 Patient: Im positive I can only do 4000 I can&apos;t move up at this time remember I told you that I&apos;m not very active
+
+05/20/19 13:50 Coach: Excellent [Name]! 4000 steps it is! There is no pressure for you to increase those steps at all.  I just want you to set goals that you feel you can meet.  This next week you are going to get 4000 steps per day.  That is 2 miles each day.
+
+05/20/19 13:54 Patient: I know that not a lot but i honestly feel that all I can do
+
+05/23/19 16:21 Coach: <goal_action gate:gateId="563" phase="follow up">I hope you have been able to enjoy the nice weather these past couple of days.  Looks like rain is on the way. How have you been doing with the 2000 steps?</goal_action>
+
+05/23/19 17:25 Patient: I&apos;ve walked over 2000 i been doing over 4000 daily
+
+05/28/19 08:53 Coach: <goal_setting gate:gateId="564" phase="goal_identification">Good morning [Name]!  I hope you are well. Sounds like you are keeping up with the 4000 steps a day.  That&apos;s excellent!  What goal would you like to set for this week?  The most important thing is that it is a goal you feel you can reach.</goal_setting> 
+
+05/28/19 08:54 Patient: Maybe I will go for 4500..
+
+05/28/19 08:55 Coach: <goal_setting gate:gateId="565" phase="anticipate_barrier">[Name] -  I can see all of your steps now!!  I don&apos;t know what happened but I can see what a great job you are doing. You walked 9500 steps one day last week!!  That is almost 5 miles!!!  How confident are you that you can do 4500?  Scale of 1 to 10 with 10 being totally confident.</goal_setting>
+
+05/28/19 08:59 Patient: Yes I was extremely busy that day and Sat i left home without my fibit but I am confident that I can do 4500. So I say 10
+
+05/28/19 16:25 Coach: Excellent - so for this week you are increasing your steps to 4500 each day. Thanks for letting me know that you had zero steps one day because you forgot the fitbit.  Good to know.
+
+05/30/19 11:57 Coach: <goal_action gate:gateId="566" phase="follow up">[Name] - I see that you walked over 5000 steps the past 2 days.Yea!!! For someone who says they aren&apos;t active, you sure are walking alot.  How is this larger goal for you?</goal_action>
+
+05/30/19 11:59 Patient: It&apos;s working fine maybe next week I will set my goal at 5000..Thank you
+
+05/30/19 15:35 Coach:   Doing a great job! I am glad it&apos;s not too much for now.
+
+05/30/19 15:44 Patient: Ok thx
+
+06/03/19 10:26 Coach: <goal_setting gate:gateId="567" phase="goal_identification">[Name] - looks like you were walking stairs yesterday -- 4 floors.  You are starting week 5 this week.  Over halfway finished with the study.  What sounds like a good goal for this week?</goal_setting> 
+
+06/03/19 11:09 Patient: 5000
+
+06/03/19 11:11 Coach: <goal_setting gate:gateId="568" phase="anticipate_barrier">How confident are you that you can do 5000 steps everyday?  The scale is 1 to 10 with 10 being &quot;totally confident - I can definitely do that&quot;</goal_setting>  
+
+06/03/19 11:12 Patient: Maybe 8
+
+06/03/19 11:16 Coach: <goal_setting gate:gateId="569" phase="goal_negotiation">I think that you are doing an amazing job walking.  You started at 2000 and have gone up to 4500.  Let&apos;s stick with 4500 for another week instead of pushing to much to fast.  How confident are you that you could do 4500 each day this coming week?  It&apos;s also ok to do fewer steps during a really busy week if you want to do fewer than 4500.</goal_setting>  
+
+06/03/19 11:55 Patient: Ok 4500 sounds good for another week
+
+06/05/19 14:56 Coach: <goal_action gate:gateId="570" phase="follow up">Good afternoon [Name]!  Nice job on your steps the past couple of days -- over 7000.  I just wanted to let you know that your fitbit battery is low. I hope you get to enjoy this day</goal_action>
+
+06/05/19 15:21 Patient: Thank you and I am about to charge my phone now thanks for the reminder 
+
+06/10/19 11:38 Coach: <goal_setting gate:gateId="571" phase="goal_identification">Good morning [Name]!  This is week 6 in the study.  You have been doing wonderful &amp; I appreciate your efforts.  What goal would you want to do this week?</goal_setting>
+
+06/10/19 11:52 Patient: I think I will do 5000 only because I have been during that every day I just been putting my fibit on late and some day I don&apos;t put it to later on in the even so lets just say 5000 ok
+
+06/10/19 13:09 Patient: I have been doing that every day
+
+06/10/19 13:18 Coach: <goal_setting gate:gateId="572" phase="anticipate_barrier">ok! On a scale from 1 to 10 with 10 being totally confident -- how confident are you that you can walk 5000 steps each day this next week?</goal_setting>
+
+06/10/19 13:24 Patient: 10
+
+06/10/19 14:45 Coach: perfect -- the goal this week is 5000 steps a day. And just try to put your fitbit on as soon as you can once you get up so you count all your steps. 
+
+06/10/19 16:29 Patient: Ok i will try to remember. 
+
+06/13/19 15:35 Coach: <goal_action gate:gateId="573" phase="follow up">Great job with the steps, [Name]!</goal_action>  
+
+06/13/19 16:40 Patient: Thanks
+
+06/18/19 11:08 Coach: <goal_setting gate:gateId="574" phase="goal_identification">Morning [Name]!  Excellent job last week meeting your goal every day.  What goal would you like to set for this week?</goal_setting>
+
+06/18/19 13:00 Coach: By the way, this is your 7th week in the study.  Only one more to go -- what is your goal for this week? 
+
+06/18/19 18:37 Patient: 5800 steps
+
+06/19/19 08:57 Coach: <goal_setting gate:gateId="575" phase="anticipate_barrier">5800 steps every day?  How confident are you that you can do that?  Scale of 1-10 with 10 being completely confident.</goal_setting>
+
+06/19/19 14:17 Patient: 10
+
+06/19/19 20:58 Coach: <goal_action gate:gateId="576" phase="follow up">So you goal this week is to walk 5800 steps every day.  I see the past 2 days you have been over 10000.  What are you doing to get so many steps?</goal_action>
+
+06/21/19 10:58 Patient:  that&apos;s how i made so many steps
+
+06/21/19 11:00 Patient: I had to do a homemaker class for 3 days downtown i believe thats how I made those steps..
+
+06/21/19 11:01 Patient: And also I havw not forgot to put my fibit on in the morning 
+
+06/21/19 16:09 Coach: Impressive [Name]!  It&apos;s great that you can do a lot of steps when you need or want to.  10,000 steps is 5 miles.....that&apos;s huge.  Great job remembering your fitbit too!
+
+06/24/19 11:00 Coach: <goal_setting gate:gateId="577" phase="goal_identification">Happy Monday [Name]!  This is your last week in the study. You have come a very long way. What would you like your goal to be this week?</goal_setting>
+
+06/24/19 13:04 Patient: I think I will go with 6000.
+
+06/24/19 15:00 Coach: <goal_setting gate:gateId="578" phase="anticipate_barrier">How sure are you that you can reach that goal this week on a scale from 1 to 10?</goal_setting>
+
+06/25/19 11:12 Coach: Your goal for this week is 6000 steps each day.  How sure are you that you can do that on a scale from 1 to 10?  10 being completely sure.  I see you walked 10,000 yesterday.
+
+06/25/19 11:52 Patient: 10
+
+06/25/19 12:00 Coach: <goal_action gate:gateId="579" phase="follow up">Morning [Name] -- looks like you don&apos;t have the fitbit on today yet    If you can, put it on so you can capture your walking today.</goal_action>
+
+06/25/19 12:36 Patient: I forgot to put it on
+
+06/25/19 12:36 Patient: On my way home now
+
+06/25/19 14:29 Coach: Glad you got your fitbit on -- what will you do to reach your goal of 6000 steps each day this week?
+
+06/25/19 17:07 Patient:  Continue to walk and make sure after I charge it to put it back on.  
+
+06/26/19 10:00 Coach: Don&apos;t forget to put your fitbit on, [Name]!
+
+06/26/19 10:40 Patient: Ok thank you
+
+06/27/19 09:50 Coach: Over 10,000 steps yesterday -- way to go [Name]!!  Don&apos;t forget to put on your fitbit today. 
+
+06/28/19 08:49 Patient: I did not do good yesterday I did not put my Fitbit on until after 12 i think...
+
+06/28/19 10:10 Coach: Only a few more days in the study, keep up the good work! 
+
+06/28/19 10:30 Coach: We all have good days and bad days.  It&apos;s life.  It looks like you have the fitbit on now so good job.
+
+06/28/19 10:51 Patient: Thank you.
+
+07/01/19 10:00 Coach: [Name] - you have done an amazing job in the study.  Thank you for your hard work.  You started at 2000 and by the end, your goal was 6000.  You were walking over 10,000 steps on some days.  Be proud of yourself!!!
+
+07/01/19 10:06 Patient: Thank you. 
+
