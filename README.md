@@ -9,6 +9,8 @@ This corpus has been referenced in the following papers:
 *  **[Human-Human Health Coaching via Text Messages: Corpus, Annotation, and Analysis](https://aclanthology.org/2020.sigdial-1.30/ )**. SIGDIAL 2020.
 *  **[Goal Summarization for Human-Human Health Coaching Dialogues](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18455/17608)**. FLAIRS 2020.
 *  **[Summarizing Behavioral Change Goals from SMS Exchanges to Support Health Coaches](https://aclanthology.org/2021.sigdial-1.31/)**. SIGDIAL 2021.
+*  **[Towards Enhancing Health Coaching Dialogue in Low-Resource Settings](https://aclanthology.org/2022.coling-1.58/)**. COLING 2022.
+*  **[Modeling Low-Resource Health Coaching Dialogues via Neuro-Symbolic Goal Summarization and Text-Units-Text Generation](https://lrec-coling-2024.org/accepted-papers/)**. COLING 2024.
 
 ## Dataset
 
