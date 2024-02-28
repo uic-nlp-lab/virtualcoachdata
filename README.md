@@ -4,6 +4,8 @@ Health coaching has been recognized as a successful approach for encouraging hea
 
 We conducted two rounds of data collection, where we recruited patients who  exchanged SMS  with certified health coaches for several weeks. Each week the coach conversed with the patients to set, follow up, and evaluate S.M.A.R.T. goals.  We share the data from the second round, as allowed by the IRB approval (protocol 2016-0862, University of Illinois at Chicago), for those  patients who explicitly  consented to the release. The dataset is thoroughly de-identified. We regret that we cannot release the data from the first round of data collection.
 
+# Announcement: We have a newly collected dataset available in the next few weeks (round 3)!
+
 This corpus has been referenced in the following papers:
 
 *  **[Human-Human Health Coaching via Text Messages: Corpus, Annotation, and Analysis](https://aclanthology.org/2020.sigdial-1.30/ )**. SIGDIAL 2020.
