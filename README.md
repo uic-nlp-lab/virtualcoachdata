@@ -4,8 +4,7 @@ Health coaching has been recognized as a successful approach for encouraging hea
 
 We conducted two rounds of data collection, where we recruited patients who  exchanged SMS  with certified health coaches for several weeks. Each week the coach conversed with the patients to set, follow up, and evaluate S.M.A.R.T. goals.  We share the data from the second round, as allowed by the IRB approval (protocol 2016-0862, University of Illinois at Chicago), for those  patients who explicitly  consented to the release. The dataset is thoroughly de-identified. We regret that we cannot release the data from the first round of data collection.
 
-# (2024/02/28) Announcement: We have a newly collected dataset available in the next few weeks (round 3)!
-
+### Note: Round 3 dataset is currently being prepared / under de-identification check.
 This corpus has been referenced in the following papers:
 
 *  **[Human-Human Health Coaching via Text Messages: Corpus, Annotation, and Analysis](https://aclanthology.org/2020.sigdial-1.30/ )**. SIGDIAL 2020.
@@ -14,7 +13,7 @@ This corpus has been referenced in the following papers:
 *  **[Towards Enhancing Health Coaching Dialogue in Low-Resource Settings](https://aclanthology.org/2022.coling-1.58/)**. COLING 2022.
 *  **[Modeling Low-Resource Health Coaching Dialogues via Neuro-Symbolic Goal Summarization and Text-Units-Text Generation](https://lrec-coling-2024.org/accepted-papers/)**. COLING 2024.
 
-## Dataset
+## Dataset (Round 2)
 
 In the second round, we recruited 30 patients who participated in the study for eight weeks; they are numbered from 01 to 30. The release contains data for 26 patients, because four patients (ids: 01, 02, 10, and 15)  did not consent to the release of their data. We include the data in its entirety, other than messages at the end of the study, that pertain to the logistics of an in-person exit interview. Additionally, two patients' data (id: 6 and id: 13) contains much less information since they did not complete the study. Please note that the models  in our papers were evaluated on data from 28 patients from round two, since we did exclude patients 6 and 13, and used all the rest of the data.
 
@@ -87,6 +86,30 @@ For details regarding how these labels are defined and predicted please refer to
     url = "https://aclanthology.org/2020.sigdial-1.30",
     pages = "246--256",
 }
+@inproceedings{zhou-etal-2024-modeling,
+    title = "Modeling Low-Resource Health Coaching Dialogues via Neuro-Symbolic Goal Summarization and Text-Units-Text Generation",
+    author = "Zhou, Yue  and
+      Di Eugenio, Barbara  and
+      Ziebart, Brian  and
+      Sharp, Lisa  and
+      Liu, Bing  and
+      Agadakos, Nikolaos",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1005",
+    pages = "11498--11509",
+    abstract = "Health coaching helps patients achieve personalized and lifestyle-related goals, effectively managing chronic conditions and alleviating mental health issues. It is particularly beneficial, however cost-prohibitive, for low-socioeconomic status populations due to its highly personalized and labor-intensive nature. In this paper, we propose a neuro-symbolic goal summarizer to support health coaches in keeping track of the goals and a text-units-text dialogue generation model that converses with patients and helps them create and accomplish specific goals for physical activities. Our models outperform previous state-of-the-art while eliminating the need for predefined schema and corresponding annotation. We also propose a new health coaching dataset extending previous work and a metric to measure the unconventionality of the patient{'}s response based on data difficulty, facilitating potential coach alerts during deployment.",
+}
+
 ```
 ## Acknowledgment
 
